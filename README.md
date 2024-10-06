@@ -1,7 +1,6 @@
 👋 Hi, I'm Tash!
 Welcome to my GitHub profile! I’m a web developer who loves building cool things with HTML, CSS, JavaScript. I’m passionate about coding, solving problems, and sipping coffee while I work ☕️.
 
-![Tash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TashNagel&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TashNagel&layout=compact&theme=radical)
 
@@ -9,9 +8,6 @@ Welcome to my GitHub profile! I’m a web developer who loves building cool thin
 
 Developing an interactive quiz for HTML, CSS, and JS learners 🌐
 Creating a portfolio project for a restaurant website 🍽️
-🔧 Technologies & Tools:
-
-📊 GitHub Stats:
 
 
 🌱 What I'm learning next:
